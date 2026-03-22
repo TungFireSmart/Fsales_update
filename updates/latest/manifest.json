@@ -1,0 +1,5 @@
+﻿{
+    "installer_url":  "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/2.1.2/Fsales-Setup-EXE-2.1.2.exe",
+    "version":  "2.1.2",
+    "notes":  "- Test auto-update via public repo files"
+}
