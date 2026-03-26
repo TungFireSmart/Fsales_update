@@ -1,5 +1,5 @@
-﻿{
-    "installer_url":  "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/2.1.2/Fsales-Setup-EXE-2.1.2.exe",
-    "version":  "2.1.2",
-    "notes":  "- Test auto-update via public repo files"
+{
+  "version": "3.0.1",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.1/Fsales-Setup-EXE-3.0.1.exe",
+  "notes": "- FSales v3.0.1: cải thiện hiệu năng màn hình main, lazy-load dữ liệu, tối ưu cập nhật UI và sửa lỗi thao tác cập nhật lead."
 }
