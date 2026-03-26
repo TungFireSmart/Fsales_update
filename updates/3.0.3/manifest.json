@@ -1,0 +1,5 @@
+{
+  "version": "3.0.3",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.3/Fsales-Setup-EXE-3.0.3.exe",
+  "notes": "- Sửa lỗi không xuất được Excel sau update (đóng gói đầy đủ template báo giá + nạp template theo resource path)."
+}
