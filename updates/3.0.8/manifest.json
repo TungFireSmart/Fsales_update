@@ -1,0 +1,5 @@
+{
+  "version": "3.0.8",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.8/Fsales-Setup-EXE-3.0.8.exe",
+  "notes": "- Fix crash màn Tạo cơ hội khi nhập mã số thuế có lịch sử giao dịch (bỏ gọi but_lich_su không tồn tại)\n- Ổn định luồng kiểm tra thông tin khách hàng theo MST/SDT trong form tạo cơ hội"
+}
