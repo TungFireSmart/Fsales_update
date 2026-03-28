@@ -1,5 +1,5 @@
 {
-  "version": "3.0.5",
-  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.5/Fsales-Setup-EXE-3.0.5.exe",
-  "notes": "- Fix crash khi mở màn Cập nhật lead sau thay đổi schema\n- Tăng độ an toàn khi đọc dữ liệu lead (không phụ thuộc SELECT *)"
+  "version": "3.0.6",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.6/Fsales-Setup-EXE-3.0.6.exe",
+  "notes": "- Fix vòng lặp auto-update do app version hard-code chưa tăng\n- Đồng bộ version hiển thị trong app lên 3.0.6"
 }
