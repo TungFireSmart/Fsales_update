@@ -1,5 +1,5 @@
 {
-  "version": "3.0.6",
-  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.6/Fsales-Setup-EXE-3.0.6.exe",
-  "notes": "- Fix vòng lặp auto-update do app version hard-code chưa tăng\n- Đồng bộ version hiển thị trong app lên 3.0.6"
+  "version": "3.0.7",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.7/Fsales-Setup-EXE-3.0.7.exe",
+  "notes": "- Bổ sung rule lead do Anna giao việc + auto-release sau 1 giờ chưa xử lý\n- Chuẩn hóa hiển thị cột lead trên main (Tên+SĐT, dòng 2: tên cơ hội)\n- Mở rộng search theo Lead ID / Tên cơ hội / Tên người liên hệ\n- Fix logo công ty hiển thị lại trên main\n- Bổ sung audit log 1 dòng/sự kiện cho quy trình lead/quote/order/xuất hàng"
 }
