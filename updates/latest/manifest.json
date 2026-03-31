@@ -1,5 +1,5 @@
 {
-  "version": "3.0.9",
-  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.9/Fsales-Setup-EXE-3.0.9.exe",
-  "notes": "- Chuyển bản phát hành sang 3.0.9 để tránh cache file setup cũ\n- Installer mặc định tiếng Việt, bỏ popup chọn ngôn ngữ\n- Auto-update silent: cài đúng thư mục cũ và tự mở lại FSales"
+  "version": "3.0.10",
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.10/Fsales-Setup-EXE-3.0.10.exe",
+  "notes": "- Fix v?ng l?p auto-update do ch?y nh?m shortcut/path c?\n- Updater nay lu?n c?i v? m? l?i t? C:\\Fsales\\Fsales.exe\n- T? d?n shortcut legacy Fsales_2024 / Fire_Smart khi c?p nh?t"
 }
