@@ -1,1 +1,5 @@
-{"installer_url":"https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.12/Fsales-Setup-EXE-3.0.12.exe","version":"3.0.12","notes":"Hotfix crash màn hình lead: bổ sung import QTimer bị thiếu và dọn entrypoint lỗi trong main.py để tránh lỗi unresolved reference/khởi động sai."}
+{
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.13/Fsales-Setup-EXE-3.0.13.exe",
+  "version": "3.0.13",
+  "notes": "Cải thiện auto-fill thông tin khách hàng từ SĐT/MST trên form tạo lead, sửa lead, báo giá; đồng thời chống treo vô hạn khi DB lookup bị timeout."
+}
