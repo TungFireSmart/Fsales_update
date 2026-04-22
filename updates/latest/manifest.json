@@ -1,5 +1,5 @@
 {
-  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.13/Fsales-Setup-EXE-3.0.13.exe",
-  "version": "3.0.13",
-  "notes": "Cải thiện auto-fill thông tin khách hàng từ SĐT/MST trên form tạo lead, sửa lead, báo giá; đồng thời chống treo vô hạn khi DB lookup bị timeout."
+  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.14/Fsales-Setup-EXE-3.0.14.exe",
+  "version": "3.0.14",
+  "notes": "Sửa persist trạng thái lead trước khi vào flow báo giá, tự set time_nhan_viec khi chuyển sang Đã nhận việc, và chặn crash để hiện lỗi rõ ràng ở màn báo giá."
 }
