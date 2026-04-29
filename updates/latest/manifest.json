@@ -1,5 +1,5 @@
 {
-  "installer_url": "https://raw.githubusercontent.com/TungFireSmart/Fsales_update/main/updates/3.0.14/Fsales-Setup-EXE-3.0.14.exe",
-  "version": "3.0.14",
-  "notes": "Sửa persist trạng thái lead trước khi vào flow báo giá, tự set time_nhan_viec khi chuyển sang Đã nhận việc, và chặn crash để hiện lỗi rõ ràng ở màn báo giá."
+  "installer_url": "https://drive.google.com/uc?id=1myq0Bx5ZnL26eNFlft5tJMAhEjs5DeCt&export=download",
+  "version": "3.0.15",
+  "notes": "Sửa flow soạn hợp đồng từ báo giá đi thẳng đúng báo giá đang mở; cưỡng bức lấy người đại diện/chức vụ từ ds_cong_ty; chặn rõ khi thiếu dữ liệu pháp lý hoặc không tìm thấy công ty trong ds_cong_ty."
 }
