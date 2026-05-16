@@ -1,5 +1,5 @@
 {
-  "installer_url": "https://drive.google.com/uc?id=1myq0Bx5ZnL26eNFlft5tJMAhEjs5DeCt&export=download",
-  "version": "3.0.15",
-  "notes": "Sửa flow soạn hợp đồng từ báo giá đi thẳng đúng báo giá đang mở; cưỡng bức lấy người đại diện/chức vụ từ ds_cong_ty; chặn rõ khi thiếu dữ liệu pháp lý hoặc không tìm thấy công ty trong ds_cong_ty."
+  "version": "3.0.18",
+  "installer_url": "https://drive.usercontent.google.com/download?id=1lZVgFgwwL_AFw6b3TrR1UGvhICD5HFgW&export=download&confirm=t",
+  "notes": "- Sửa lỗi đảo Tên người liên hệ / Tên công ty khi tạo và cập nhật lead.\n- Tự nhận diện và đảo lại các trường bị nhập nhầm theo pattern phổ biến trước khi lưu.\n- Bổ sung chặn lead Anna thiếu Tên cơ hội; lead Anna mới sẽ có tiêu đề hợp lệ mặc định để sales đổi lại khi nhận việc.\n- Rà và làm sạch dữ liệu lead cũ bị đảo tên khách hàng/công ty.\n- Cải thiện kiểm tra workflow để tránh thao tác báo giá/đơn hàng/file khi lead chưa đủ điều kiện."
 }
