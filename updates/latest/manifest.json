@@ -1,5 +1,5 @@
 {
   "version": "3.0.19",
-  "installer_url": "https://drive.google.com/uc?id=1lZVgFgwwL_AFw6b3TrR1UGvhICD5HFgW&export=download",
+  "installer_url": "https://drive.usercontent.google.com/download?id=1lZVgFgwwL_AFw6b3TrR1UGvhICD5HFgW&export=download&confirm=t",
   "notes": "- Sửa lỗi user sales (ví dụ Nguyễn Hải Hà) tạo lead thành công nhưng lead không hiện trên màn main do bị auto-assign nhầm sang người khác.\n- User thường tạo/giao lead sẽ giữ đúng người phụ trách đã chọn và dùng trạng thái Đã nhận việc; chỉ luồng Anna mới dùng auto-assign + Anna đã giao việc.\n- Sửa lỗi sau khi tạo lead, upload/sửa/history có thể trỏ nhầm sang lead kế tiếp do dùng MAX(lead_id)+1.\n- Tự refresh màn hình main sau khi tạo lead để thấy lead mới ngay."
 }
