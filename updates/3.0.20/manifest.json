@@ -1,5 +1,5 @@
 {
   "version": "3.0.20",
   "installer_url": "https://drive.usercontent.google.com/download?id=1quf0UhXk7c71FHq7gpHJfkR3y-M2tlAt&export=download&confirm=t",
-  "notes": "- S?a l?i b?m S?n ph?m m?i trong qu?n l? kho l?m app b? v?ng do h?m m? form th?m s?n ph?m b? thi?u.\n- Kh?i ph?c m?n Th?m/C?p nh?t s?n ph?m v? ki?m tra l?i lu?ng m? form.\n- S?a ki?m tra thi?u th?ng tin khi th?m/c?p nh?t s?n ph?m."
+  "notes": "- Sửa lỗi bấm Sản phẩm mới trong quản lý kho làm app bị văng do hàm mở form thêm sản phẩm bị thiếu.\n- Khôi phục màn Thêm/Cập nhật sản phẩm và kiểm tra lại luồng mở form.\n- Sửa kiểm tra thiếu thông tin khi thêm/cập nhật sản phẩm."
 }
