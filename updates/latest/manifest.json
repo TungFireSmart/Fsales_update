@@ -1,5 +1,5 @@
 {
-  "version": "3.0.20",
-  "installer_url": "https://drive.usercontent.google.com/download?id=1quf0UhXk7c71FHq7gpHJfkR3y-M2tlAt&export=download&confirm=t",
-  "notes": "- S\u1eeda l\u1ed7i b\u1ea5m S\u1ea3n ph\u1ea9m m\u1edbi trong qu\u1ea3n l\u00fd kho l\u00e0m app b\u1ecb v\u0103ng do h\u00e0m m\u1edf form th\u00eam s\u1ea3n ph\u1ea9m b\u1ecb thi\u1ebfu.\n- Kh\u00f4i ph\u1ee5c m\u00e0n Th\u00eam/C\u1eadp nh\u1eadt s\u1ea3n ph\u1ea9m v\u00e0 ki\u1ec3m tra l\u1ea1i lu\u1ed3ng m\u1edf form.\n- S\u1eeda ki\u1ec3m tra thi\u1ebfu th\u00f4ng tin khi th\u00eam/c\u1eadp nh\u1eadt s\u1ea3n ph\u1ea9m."
+  "version": "3.0.21",
+  "installer_url": "https://drive.usercontent.google.com/download?id=1Tr0JvhQ2X-g7Os1lJZmQPQZBtj8Cyv-8&export=download&confirm=t",
+  "notes": "- Nâng cấp luồng tư vấn PCCC theo NĐ 105/2025/NĐ-CP.\n- Bổ sung/hoàn thiện logic xác định nhóm công trình, danh mục hồ sơ PC01-PC06 và checklist hồ sơ tương ứng.\n- Cải thiện giao diện màn tư vấn PCCC: bảng kết quả, ghi chú, liên kết mẫu biểu và chức năng in/lưu PDF."
 }
