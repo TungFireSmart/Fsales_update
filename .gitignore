@@ -1,0 +1,12 @@
+# Bộ cài KHÔNG đẩy vào git — đính kèm vào GitHub Releases (chốt 6/8/2026).
+#
+# Lý do: repo này đã track 16 file .exe, .git phình lên 1,5 GB. Clone rất
+# lâu và không ai cần lịch sử của file nhị phân 60 MB.
+# Chỉ manifest.json (vài KB) cần nằm trong git — app đọc nó qua
+# raw.githubusercontent.
+#
+# ⚠️ 16 file .exe cũ VẪN nằm trong lịch sử commit; dòng này chỉ chặn
+# file mới. Muốn repo nhẹ thật thì phải chạy git filter-repo (việc riêng).
+*.exe
+*.zip
+*.msi
