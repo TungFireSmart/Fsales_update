@@ -2,6 +2,6 @@
   "version": "3.0.23",
   "installer_url": "https://github.com/TungFireSmart/Fsales_update/releases/download/v3.0.23/Fsales-Setup-EXE-3.0.23.exe",
   "notes": "- Bỏ chốt chặn 'một nhân viên một cơ hội': nhân viên không còn bị chặn nhận việc vì cờ check_busy cũ; cờ này chỉ còn dùng để ưu tiên chia lead tự động. \n- Sửa luồng Nhận việc: nút nhận việc truyền đúng lead_id, tránh nhận nhầm dòng do currentRow(). \n- Tắt màn hình/nút Cơ hội mới để tránh hồ lead chung không kiểm quyền. \n- Thêm kiểm tra trước phát hành: import module, kiểm hàm thiếu, đối chiếu version/.iss/AppId và kiểm kết nối CSDL.",
-  "sha256": "f8bc7d9a58aa243ab1b39066ac326ec4cc6891a6f69ce05cba3f6dda9ff69505",
-  "size": 57148382
+  "sha256": "27126517c764261c0433aea00db0b98fd52da333d638215bda1fec5cfd39ee96",
+  "size": 57148406
 }
